@@ -1,0 +1,63 @@
+body {
+  max-width: 1920px;
+  background-color: #ffffff;
+  color: #000;
+  border: 1px solid rgb(245, 11, 11);
+  background-image: url("../images/SCALA_BAGS-3420-Edit-Edit.svg");
+
+  background-repeat: no-repeat;
+}
+
+a,
+ul {
+  text-decoration: none;
+  list-style-type: none;
+}
+
+.header {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+
+.header__lang {
+}
+
+.header__lang-link_active {
+  text-decoration: underline;
+}
+
+.header__nav {
+}
+
+.header__links {
+  display: flex;
+}
+
+.content__title {
+  color: rgba(255, 255, 255, 1);
+  font-weight: 700;
+  font-size: 62px;
+  line-height: 75.08px;
+  letter-spacing: 52%;
+}
+
+.about {
+  display: flex;
+  border: 1px solid pink;
+  margin-bottom: 107px;
+}
+
+.about-section {
+}
+
+.about__text {
+}
+
+.images {
+  margin-bottom: 110px;
+}
+
+.footer {
+  
+}
